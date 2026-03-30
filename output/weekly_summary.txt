@@ -1,0 +1,1 @@
+Run `python tracker.py` or the GitHub Actions workflow to generate the latest summary.

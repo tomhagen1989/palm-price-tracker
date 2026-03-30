@@ -1,0 +1,18 @@
+{
+  "history_days": 20,
+  "price_source": {
+    "name": "Malaysia CPO futures (Investing.com continuous front month)",
+    "url": "https://www.investing.com/commodities/malaysian-crude-palm-oil-futures-historical-data"
+  },
+  "fx_source": {
+    "name": "Frankfurter USD/INR",
+    "url": "https://api.frankfurter.app"
+  },
+  "costs": {
+    "freight_usd_per_mt": 35.0,
+    "insurance_pct_of_cfr": 0.0025,
+    "effective_import_duty_pct": 0.165,
+    "port_charges_inr_per_mt": 1500.0,
+    "other_cost_inr_per_mt": 0.0
+  }
+}
